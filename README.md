@@ -2,7 +2,13 @@
 
 A sample of various visualizations I've created. Some info may be redacted out of necessity.
 
+## Plotly
+
+![Choropleth](https://github.com/cicilishuaili/Data-Visualizations/blob/master/sample_plotly_choropleth.png)
+
 ## Matplotlib
+
+![Chord](https://github.com/cicilishuaili/Data-Visualizations/blob/master/full_chord.png)
 
 ![Radar](https://github.com/cicilishuaili/Data-Visualizations/blob/master/Radar.png)
 
@@ -18,6 +24,6 @@ A sample of various visualizations I've created. Some info may be redacted out o
 
 ![Box and Whiskers](https://github.com/cicilishuaili/Data-Visualizations/blob/master/WhiskerScatter_redacted.png)
 
-![Chloropleth](https://github.com/cicilishuaili/Data-Visualizations/blob/master/Chloropleth_redacted.png)
+![Choropleth](https://github.com/cicilishuaili/Data-Visualizations/blob/master/Chloropleth_redacted.png)
 
 ![Paths](https://github.com/cicilishuaili/Data-Visualizations/blob/master/travel_paths.png)
