@@ -3,8 +3,11 @@
 A sample of various visualizations I've created. Some info may be redacted out of necessity.
 
 ## Plotly
+Most of these are snapshots of highly interactive visualizations
 
 ![Choropleth](https://github.com/cicilishuaili/Data-Visualizations/blob/master/sample_plotly_choropleth.png)
+
+![Sankey Diagrams](https://github.com/cicilishuaili/Data-Visualizations/blob/master/sankey_snapshot.png)
 
 ## Matplotlib
 
